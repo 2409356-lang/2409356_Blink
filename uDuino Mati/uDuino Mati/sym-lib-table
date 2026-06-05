@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name USB-pcv)(type Legacy)(uri C:/Users/Alumno/Documents/Lab/USB-pcv.lib)(options "")(descr ""))
-  (lib (name USB-puerto)(type Legacy)(uri C:/Users/Alumno/Documents/Lab/USB-puerto.lib)(options "")(descr ""))
-  (lib (name USB-P)(type Legacy)(uri C:/Users/Alumno/Documents/Lab/USB-P.lib)(options "")(descr ""))
-  (lib (name symbolusb_a)(type Legacy)(uri ${KIPRJMOD}/symbolusb_a.lib)(options "")(descr ""))
-)

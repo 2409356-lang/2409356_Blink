@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name USB-PCB)(type KiCad)(uri ${KIPRJMOD}/USB-PCB.pretty)(options "")(descr ""))
-  (lib (name led-L)(type KiCad)(uri ${KIPRJMOD}/led-L.pretty)(options "")(descr ""))
-)
